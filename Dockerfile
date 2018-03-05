@@ -1,4 +1,5 @@
 FROM tensorflow/tensorflow:nightly-devel-py3
+# FROM claudiuvintila/hands-on:v1
 
 # RUN add-apt-repository -r ppa:fossfreedom/byzanz
 # RUN apt-get -y update && apt-get install -y fortunes
